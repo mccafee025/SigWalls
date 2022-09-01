@@ -2,7 +2,7 @@ body {
 	font-family:montserrat;
 }
 nav {
-	height: 70px;
+	height: 84px;
 	background: #570000;
 	width:100%;
 }
@@ -19,10 +19,17 @@ nav ul li {
 
 nav ul li a {
 	color:white;
-	font-size: 17px;
+	font-size: 23px;
 	text-transform: uppercase;
 	padding: 7px 13px;
 	border-radius: 3px;
+}
+label.headerpart {
+	color:white;
+	font-size: 35px;
+	line-height:80px;
+	padding:0 100px;
+	font-weight:bold;
 }
 
 
